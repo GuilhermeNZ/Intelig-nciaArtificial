@@ -1,2 +1,2 @@
-# InteligenciaArtificial
+# Inteligencia Artificial
 # Guilherme N | Kelvin
